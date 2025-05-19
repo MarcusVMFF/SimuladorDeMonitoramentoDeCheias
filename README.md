@@ -12,7 +12,7 @@ Monitorar o nível de um "rio" simulado com joystick, exibindo os dados em tempo
 
 ## 🎥 **Demonstração**
 
-[Ver Vídeo do Projeto](https://drive.google.com/file/d/1p-pWcr50rUCaT1JCv6CoL1GDCLoK-Oyz/view?usp=sharing)
+[Ver Vídeo do Projeto](https://drive.google.com/file/d/1S76Psc-qq6pxxSoDH1nHHW-2aFLstBe6/view?usp=drive_link)
 
 ---
 
